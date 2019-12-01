@@ -1,0 +1,12 @@
+name: twitter
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - tweepy
+  - assertpy
+prefix: /Users/mhanif/anaconda3/envs/twitter
+
